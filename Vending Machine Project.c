@@ -19,7 +19,7 @@ int num_items = sizeof(inventory) / sizeof(inventory[0]);
 int choice;
 int inserted_money;
 int quantity;
-printf("Welcome to the C Vending Machine Simulator!\n");
+printf("Welcome to the 5C's Vending Machine Simulator!\n");
 while(1){//Loop for multiple transactions
     printf("\n___Available items;___\n");
         for (int i=0;i<num_items;i++){
