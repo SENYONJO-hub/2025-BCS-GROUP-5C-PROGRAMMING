@@ -5,9 +5,7 @@ It reflects some of the basic key concepts in C programming like;arrays, loops,c
 Group Members:
 Name                   Reg No.               Role
 SENYONJO TWAHA         2025/BCS/171/PS       Group Leader
-KIHEMBO TALENT         2025/BCS/096/PS       Member            
 KISEMBO STEPHEN        2025/BCS/100/PS       Member
-KANGUME LAWRENCE       2025/BCS/089/PS       Member
 NANZIRI SHAMIRAH       2025/BCS/142/PS       Member
 MURUNGI IAN            2025/BCS/129/PS       Member
 AMARA BLAIR            2025/BCS/028/PS       Member
