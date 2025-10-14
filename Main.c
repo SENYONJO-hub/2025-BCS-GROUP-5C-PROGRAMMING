@@ -2,7 +2,7 @@
 #include "Vending.h"
 // Headers
 #include <stdlib.h>  // For standard library functions
-#include <string.h>  // For string manipulation (snprintf)
+#include <string.h>  // For string manipulation (printf)
 
 // Logs transactions and errors to vending_log.txt for auditing
 void logTransaction(const char *message) {
