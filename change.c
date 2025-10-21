@@ -8,14 +8,14 @@ void calculateChange(int change, int denominations[], int numDenoms) {
         // Print total change amount
         printf("Your change is %d UGX\n", change);
         // Print header for change breakdown
-        printf("Change breakdown: ");
+        printf("Change breakdown: \n");
         // Loop through denominations to calculate number of notes/coins
         for (int i = 0; i < numDenoms; i++) {
             int numNotes = change / denominations[i]; // Calculate notes/coins for this denomination
             change %= denominations[i];              // Update remaining change
             // Print only if there are notes/coins to return
             if (numNotes > 0) {
-                printf("%d x %dUGX ", numNotes, denominations[i]);
+                printf("%d x %dUGX \n", numNotes, denominations[i]);
             }
         }
         // Print newlines for formatting
