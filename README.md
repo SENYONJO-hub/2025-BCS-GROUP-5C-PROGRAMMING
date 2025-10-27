@@ -11,4 +11,4 @@ MURUNGI IAN            2025/BCS/129/PS       Member
 AMARA BLAIR            2025/BCS/028/PS       Member
 AKAMUMPA ANTHLEM       2025/BCS/022/PS       Member
 TWINOMUJUNI EMMANUEL   2025/BCS/183/PS       Member 
-AYEBARE PRECIOUS       2025/BCS/058/PS       Member
+AYEBARE PRECIOUS       2025/BCS/060/PS       Member
